@@ -1,1 +1,3 @@
 # shenlan_college_control_algorithm
+PID控制器用于纵向控制
+LQR控制器用于控制横向
