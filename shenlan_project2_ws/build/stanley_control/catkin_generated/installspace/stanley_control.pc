@@ -1,0 +1,8 @@
+prefix=/home/hongwang/shenlan_project2_ws/install
+
+Name: stanley_control
+Description: Description of stanley_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lserial_communication
+Requires: geometry_msgs roscpp rospy sensor_msgs std_msgs tf lgsvl_msgs nav_msgs

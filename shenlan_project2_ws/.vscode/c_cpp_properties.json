@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/opt/ros/noetic/include/**",
+                "/home/hongwang/shenlan_project2_ws/src/localization/include/**",
+                "/home/hongwang/shenlan_project2_ws/src/stanley_control/include/**",
+                "/home/hongwang/shenlan_project2_ws/src/vehicle_control/include/**",
+                "/usr/include/**",
+                "${workspaceFolder}/src/stanley_control/include"
+            ],
+            "name": "ROS"
+        }
+    ],
+    "version": 4
+}

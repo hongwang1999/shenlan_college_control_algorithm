@@ -1,0 +1,8 @@
+prefix=/home/hongwang/shenlan_project2_ws/install
+
+Name: rosbridge_server
+Description: Description of rosbridge_server
+Version: 0.8.6
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
