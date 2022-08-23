@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="ProfessorLi">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping local="/usr/src/googletest/googlemock/src/gmock-all.cc" web="/" />
+            <mapping local="/usr/src/googletest/googlemock/src/gmock_main.cc" web="/" />
+            <mapping local="/usr/src/googletest/googletest/src/gtest-all.cc" web="/" />
+            <mapping local="/usr/src/googletest/googletest/src/gtest_main.cc" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Remote Host (623afa04-eec5-438e-b2c1-ae05738dd53c)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping local="/usr/src/googletest/googlemock/src/gmock-all.cc" web="/" />
+            <mapping local="/usr/src/googletest/googlemock/src/gmock_main.cc" web="/" />
+            <mapping local="/usr/src/googletest/googletest/src/gtest-all.cc" web="/" />
+            <mapping local="/usr/src/googletest/googletest/src/gtest_main.cc" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

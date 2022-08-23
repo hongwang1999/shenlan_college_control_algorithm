@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/hongwang/project3_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/hongwang/project3_ws/src/localization/include/**",
+        "/home/hongwang/project3_ws/src/lqr_control/include/**",
+        "/home/hongwang/project3_ws/src/referenceline/include/**",
+        "/home/hongwang/project3_ws/src/ros_viz_tools/include/**",
+        "/home/hongwang/project3_ws/src/vehicle_control/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/hongwang/shenlan_mpc_project/devel -DCMAKE_INSTALL_PREFIX=/home/hongwang/shenlan_mpc_project/install -G Unix Makefiles

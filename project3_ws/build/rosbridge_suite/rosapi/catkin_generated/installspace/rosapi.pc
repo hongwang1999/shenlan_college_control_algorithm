@@ -1,0 +1,8 @@
+prefix=/home/hongwang/project3_ws/install
+
+Name: rosapi
+Description: Description of rosapi
+Version: 0.8.6
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

@@ -1,0 +1,2 @@
+localization:lqr_control:referenceline:ros_viz_tools:rosbridge_suite/rosapi:rosbridge_suite/rosbridge_library:rosbridge_suite/rosbridge_server:rosbridge_suite/rosbridge_suite:vehicle_control
+-DCATKIN_DEVEL_PREFIX=/home/hongwang/project3_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hongwang/project3_ws/install -G Unix Makefiles

@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/li/lqr_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/li/lqr_ws/src/localization/include/**",
+        "/home/li/lqr_ws/src/lqr_control/include/**",
+        "/home/li/lqr_ws/src/vehicle_control/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

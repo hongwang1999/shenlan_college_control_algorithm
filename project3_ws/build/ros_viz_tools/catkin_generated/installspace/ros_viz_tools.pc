@@ -1,0 +1,8 @@
+prefix=/home/hongwang/project3_ws/install
+
+Name: ros_viz_tools
+Description: Description of ros_viz_tools
+Version: 0.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lros_viz_tools
+Requires: geometry_msgs roscpp std_msgs visualization_msgs tf2

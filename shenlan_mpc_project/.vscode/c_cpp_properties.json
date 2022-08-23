@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/opt/ros/noetic/include/**",
+                "/home/hongwang/shenlan_mpc_project/src/mpc_control/include/**",
+                "/usr/include/**",
+                "/opt/ros/noetic/include",
+                "/home/hongwang/shenlan_mpc_project/src/mpc_control/include/osqp/**"
+            ],
+            "name": "ROS"
+        }
+    ],
+    "version": 4
+}

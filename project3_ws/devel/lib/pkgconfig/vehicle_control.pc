@@ -1,0 +1,8 @@
+prefix=/home/hongwang/project3_ws/devel
+
+Name: vehicle_control
+Description: Description of vehicle_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lserial_communication
+Requires: geometry_msgs roscpp rospy sensor_msgs std_msgs tf lgsvl_msgs nav_msgs

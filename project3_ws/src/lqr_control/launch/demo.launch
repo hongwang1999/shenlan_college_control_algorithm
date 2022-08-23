@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+  <node pkg="lqr_control" type="lqr_control_node" name="lqr_control_node" output="screen">
+    <param name="vehicle_odom_topic" value="/odom" />
+    <param name="vehicle_cmd_topic" value="/vehicle_cmd" />
+    <param name="roadmap_path" value="$(find lqr_control)/data/cube_town_record_line.txt" />
+    <param name="target_speed" value="5" />
+    <param name="goal_tolerance" value="0.5" />
+    <param name="control_frequency" value="100" />
+    <param name="vis_frequency" value="0.5" />
+    <param name="path_vis_topic" value="path_vis" />
+    <param name="speed_P" value="0.4" />
+    <param name="speed_I" value="0.1" />
+    <param name="speed_D" value="0" />
+    <param name="frame_id" value="gps" />
+  </node>
+  <node name="rviz" pkg="rviz" type="rviz"  args="-d $(find lqr_control)/rviz/lqr_control.rviz"> </node>
+</launch>
