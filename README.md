@@ -1,2 +1,2 @@
 # shenlan_college_control_algorithm
-PID控制器用于纵向控制,Stanley控制器用于横向控制，LQR控制器用于轨迹跟踪控制
+PID控制器用于纵向控制,Stanley控制器用于横向控制，LQR控制器和MPC控制器用于横纵向耦合的轨迹跟踪控制。
