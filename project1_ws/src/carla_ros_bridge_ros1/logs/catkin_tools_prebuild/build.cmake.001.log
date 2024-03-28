@@ -1,0 +1,18 @@
+Not searching for unused variables given on the command line.
+[36m--[0m Using CATKIN_DEVEL_PREFIX: /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/.private/catkin_tools_prebuild
+[36m--[0m Using CMAKE_PREFIX_PATH: /opt/ros/noetic
+[36m--[0m This workspace overlays: /opt/ros/noetic
+[36m--[0m Using PYTHON_EXECUTABLE: /home/qrq/miniconda3/bin/python3
+[36m--[0m Using Debian Python package layout
+[36m--[0m Could NOT find PY_em (missing: PY_EM)
+[31m[1mCMake Error[0m at /opt/ros/noetic/share/catkin/cmake/empy.cmake:30 (message):
+  Unable to find either executable 'empy' or Python module 'em'...  try
+  installing the package 'python3-empy'
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/noetic/share/catkin/cmake/all.cmake:164 (include)
+  /opt/ros/noetic/share/catkin/cmake/catkinConfig.cmake:20 (include)
+  CMakeLists.txt:4 (find_package)
+
+
+[36m--[0m Configuring incomplete, errors occurred!
+See also "/home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/build/catkin_tools_prebuild/CMakeFiles/CMakeOutput.log".

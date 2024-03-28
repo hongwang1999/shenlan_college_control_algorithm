@@ -1,0 +1,11 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~speed_Kp" : \b [double] Kp of the speed PID min: 0.0, default: 0.05, max: 1.0
+- \b "~speed_Ki" : \b [double] Ki of the speed PID min: 0.0, default: 0.0, max: 1.0
+- \b "~speed_Kd" : \b [double] Kd of the speed PID min: 0.0, default: 0.5, max: 10.0
+- \b "~accel_Kp" : \b [double] Kp of the accel PID min: 0.0, default: 0.05, max: 10.0
+- \b "~accel_Ki" : \b [double] Ki of the accel PID min: 0.0, default: 0.0, max: 10.0
+- \b "~accel_Kd" : \b [double] Kd of the accel PID min: 0.0, default: 0.05, max: 10.0
+

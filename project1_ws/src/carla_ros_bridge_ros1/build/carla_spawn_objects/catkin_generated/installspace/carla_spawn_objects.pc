@@ -1,0 +1,8 @@
+prefix=/home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/install
+
+Name: carla_spawn_objects
+Description: Description of carla_spawn_objects
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy

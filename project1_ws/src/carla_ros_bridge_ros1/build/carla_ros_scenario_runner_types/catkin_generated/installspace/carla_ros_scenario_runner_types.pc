@@ -1,0 +1,8 @@
+prefix=/home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/install
+
+Name: carla_ros_scenario_runner_types
+Description: Description of carla_ros_scenario_runner_types
+Version: 0.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

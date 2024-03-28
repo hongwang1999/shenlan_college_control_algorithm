@@ -1,0 +1,8 @@
+prefix=/home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/.private/carla_ros_scenario_runner_types
+
+Name: carla_ros_scenario_runner_types
+Description: Description of carla_ros_scenario_runner_types
+Version: 0.1.0
+Cflags: -I/home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/.private/carla_ros_scenario_runner_types/include
+Libs: -L${prefix}/lib 
+Requires: 

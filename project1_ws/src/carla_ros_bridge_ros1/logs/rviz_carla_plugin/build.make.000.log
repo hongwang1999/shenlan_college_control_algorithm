@@ -1,0 +1,12 @@
+[35m[1mScanning dependencies of target rviz_carla_plugin_autogen[0m
+[ 12%] [34m[1mAutomatic MOC for target rviz_carla_plugin[0m
+[ 12%] Built target rviz_carla_plugin_autogen
+[ 25%] [34m[1mGenerating qrc_rviz_carla_plugin.cpp[0m
+[35m[1mScanning dependencies of target rviz_carla_plugin[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/rviz_carla_plugin.dir/src/indicator_widget.cpp.o[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/rviz_carla_plugin.dir/rviz_carla_plugin_autogen/mocs_compilation.cpp.o[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/rviz_carla_plugin.dir/src/drive_widget.cpp.o[0m
+[ 87%] [32mBuilding CXX object CMakeFiles/rviz_carla_plugin.dir/src/carla_control_panel.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/rviz_carla_plugin.dir/qrc_rviz_carla_plugin.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/.private/rviz_carla_plugin/lib/librviz_carla_plugin.so[0m
+[100%] Built target rviz_carla_plugin

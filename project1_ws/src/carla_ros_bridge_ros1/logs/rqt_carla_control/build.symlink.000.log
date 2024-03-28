@@ -1,0 +1,6 @@
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/share/rqt_carla_control/cmake/rqt_carla_controlConfig-version.cmake
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/share/rqt_carla_control/cmake/rqt_carla_controlConfig.cmake
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/lib/python3/dist-packages/rqt_carla_control/__init__.py
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/lib/rqt_carla_control/rqt_carla_control.py
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/lib/rqt_carla_control/cmake.lock
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/lib/pkgconfig/rqt_carla_control.pc

@@ -1,0 +1,8 @@
+prefix=/home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/install
+
+Name: carla_ackermann_msgs
+Description: Description of carla_ackermann_msgs
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs carla_msgs

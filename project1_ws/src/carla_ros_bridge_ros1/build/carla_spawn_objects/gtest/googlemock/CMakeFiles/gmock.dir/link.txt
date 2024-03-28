@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libgmock.so -o ../lib/libgmock.so CMakeFiles/gmock.dir/src/gmock-all.cc.o  -Wl,-rpath,/home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/build/carla_spawn_objects/gtest/lib ../lib/libgtest.so -lpthread 

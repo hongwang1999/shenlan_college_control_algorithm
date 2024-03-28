@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target carla_ackermann_control_gencfg[0m
+[100%] [34m[1mGenerating dynamic reconfigure files from config/EgoVehicleControlParameter.cfg: /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/.private/carla_ackermann_control/include/carla_ackermann_control/EgoVehicleControlParameterConfig.h /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/.private/carla_ackermann_control/lib/python3/dist-packages/carla_ackermann_control/cfg/EgoVehicleControlParameterConfig.py[0m
+Generating reconfiguration files for EgoVehicleControlParameter in carla_ackermann_control
+Wrote header file in /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/.private/carla_ackermann_control/include/carla_ackermann_control/EgoVehicleControlParameterConfig.h
+[100%] Built target carla_ackermann_control_gencfg

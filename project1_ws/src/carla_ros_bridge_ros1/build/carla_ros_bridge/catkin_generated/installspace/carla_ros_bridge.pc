@@ -1,0 +1,8 @@
+prefix=/home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/install
+
+Name: carla_ros_bridge
+Description: Description of carla_ros_bridge
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

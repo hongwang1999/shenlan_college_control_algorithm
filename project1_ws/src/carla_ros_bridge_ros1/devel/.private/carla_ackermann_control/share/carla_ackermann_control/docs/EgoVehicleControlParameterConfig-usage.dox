@@ -1,0 +1,12 @@
+\subsubsection usage Usage
+\verbatim
+<node name="carla_ackermann_control" pkg="carla_ackermann_control" type="carla_ackermann_control">
+  <param name="speed_Kp" type="double" value="0.05" />
+  <param name="speed_Ki" type="double" value="0.0" />
+  <param name="speed_Kd" type="double" value="0.5" />
+  <param name="accel_Kp" type="double" value="0.05" />
+  <param name="accel_Ki" type="double" value="0.0" />
+  <param name="accel_Kd" type="double" value="0.05" />
+</node>
+\endverbatim
+

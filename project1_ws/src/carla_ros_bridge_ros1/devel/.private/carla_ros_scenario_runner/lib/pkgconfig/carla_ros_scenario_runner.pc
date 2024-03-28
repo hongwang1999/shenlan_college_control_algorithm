@@ -1,0 +1,8 @@
+prefix=/home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/.private/carla_ros_scenario_runner
+
+Name: carla_ros_scenario_runner
+Description: Description of carla_ros_scenario_runner
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

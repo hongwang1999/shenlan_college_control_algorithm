@@ -1,0 +1,1 @@
+/home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/.private/carla_spawn_objects/lib/carla_spawn_objects/carla_spawn_objects.py

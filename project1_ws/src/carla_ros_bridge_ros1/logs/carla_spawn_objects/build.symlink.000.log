@@ -1,0 +1,7 @@
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/share/carla_spawn_objects/cmake/carla_spawn_objectsConfig.cmake
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/share/carla_spawn_objects/cmake/carla_spawn_objectsConfig-version.cmake
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/lib/python3/dist-packages/carla_spawn_objects/__init__.py
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/lib/carla_spawn_objects/carla_spawn_objects.py
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/lib/carla_spawn_objects/set_initial_pose.py
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/lib/carla_spawn_objects/cmake.lock
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/lib/pkgconfig/carla_spawn_objects.pc

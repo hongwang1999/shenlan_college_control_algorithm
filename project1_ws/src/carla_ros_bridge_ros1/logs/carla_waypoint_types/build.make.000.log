@@ -1,0 +1,46 @@
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target _carla_waypoint_types_generate_messages_check_deps_GetActorWaypoint[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target _carla_waypoint_types_generate_messages_check_deps_CarlaWaypoint[0m
+[35m[1mScanning dependencies of target _carla_waypoint_types_generate_messages_check_deps_GetWaypoint[0m
+[  0%] Built target nav_msgs_generate_messages_py
+[  0%] Built target nav_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
+[  0%] Built target _carla_waypoint_types_generate_messages_check_deps_CarlaWaypoint
+[  0%] Built target _carla_waypoint_types_generate_messages_check_deps_GetActorWaypoint
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_lisp[0m
+[  0%] Built target nav_msgs_generate_messages_cpp
+[  0%] Built target nav_msgs_generate_messages_lisp
+[  0%] Built target _carla_waypoint_types_generate_messages_check_deps_GetWaypoint
+[35m[1mScanning dependencies of target carla_waypoint_types_generate_messages_eus[0m
+[  5%] [34m[1mGenerating EusLisp code from carla_waypoint_types/CarlaWaypoint.msg[0m
+[35m[1mScanning dependencies of target carla_waypoint_types_generate_messages_py[0m
+[ 11%] [34m[1mGenerating EusLisp code from carla_waypoint_types/GetWaypoint.srv[0m
+[ 16%] [34m[1mGenerating Python from MSG carla_waypoint_types/CarlaWaypoint[0m
+[ 22%] [34m[1mGenerating Python code from SRV carla_waypoint_types/GetWaypoint[0m
+[ 27%] [34m[1mGenerating Python code from SRV carla_waypoint_types/GetActorWaypoint[0m
+[ 33%] [34m[1mGenerating EusLisp code from carla_waypoint_types/GetActorWaypoint.srv[0m
+[35m[1mScanning dependencies of target carla_waypoint_types_generate_messages_nodejs[0m
+[ 38%] [34m[1mGenerating Javascript code from carla_waypoint_types/CarlaWaypoint.msg[0m
+[ 44%] [34m[1mGenerating EusLisp manifest code for carla_waypoint_types[0m
+[ 50%] [34m[1mGenerating Javascript code from carla_waypoint_types/GetWaypoint.srv[0m
+[ 55%] [34m[1mGenerating Python msg __init__.py for carla_waypoint_types[0m
+[ 61%] [34m[1mGenerating Javascript code from carla_waypoint_types/GetActorWaypoint.srv[0m
+[ 61%] Built target carla_waypoint_types_generate_messages_nodejs
+[ 66%] [34m[1mGenerating Python srv __init__.py for carla_waypoint_types[0m
+[ 66%] Built target carla_waypoint_types_generate_messages_py
+[ 66%] Built target carla_waypoint_types_generate_messages_eus
+[35m[1mScanning dependencies of target carla_waypoint_types_generate_messages_cpp[0m
+[ 72%] [34m[1mGenerating C++ code from carla_waypoint_types/CarlaWaypoint.msg[0m
+[35m[1mScanning dependencies of target carla_waypoint_types_generate_messages_lisp[0m
+[ 77%] [34m[1mGenerating Lisp code from carla_waypoint_types/CarlaWaypoint.msg[0m
+[ 83%] [34m[1mGenerating Lisp code from carla_waypoint_types/GetWaypoint.srv[0m
+[ 88%] [34m[1mGenerating C++ code from carla_waypoint_types/GetWaypoint.srv[0m
+[ 94%] [34m[1mGenerating Lisp code from carla_waypoint_types/GetActorWaypoint.srv[0m
+[ 94%] Built target carla_waypoint_types_generate_messages_lisp
+[100%] [34m[1mGenerating C++ code from carla_waypoint_types/GetActorWaypoint.srv[0m
+[100%] Built target carla_waypoint_types_generate_messages_cpp
+[35m[1mScanning dependencies of target carla_waypoint_types_generate_messages[0m
+[100%] Built target carla_waypoint_types_generate_messages

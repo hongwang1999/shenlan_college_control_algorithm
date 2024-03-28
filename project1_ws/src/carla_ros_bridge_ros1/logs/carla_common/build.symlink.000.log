@@ -1,0 +1,6 @@
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/share/carla_common/cmake/carla_commonConfig-version.cmake
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/share/carla_common/cmake/carla_commonConfig.cmake
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/lib/python3/dist-packages/carla_common/__init__.py
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/lib/carla_common/transforms.py
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/lib/carla_common/cmake.lock
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/lib/pkgconfig/carla_common.pc

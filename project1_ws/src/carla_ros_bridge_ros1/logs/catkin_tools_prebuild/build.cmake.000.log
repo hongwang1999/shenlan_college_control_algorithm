@@ -1,0 +1,33 @@
+Not searching for unused variables given on the command line.
+[36m--[0m The C compiler identification is GNU 9.4.0
+[36m--[0m The CXX compiler identification is GNU 9.4.0
+[36m--[0m Check for working C compiler: /usr/bin/cc
+[36m--[0m Check for working C compiler: /usr/bin/cc -- works
+[36m--[0m Detecting C compiler ABI info
+[36m--[0m Detecting C compiler ABI info - done
+[36m--[0m Detecting C compile features
+[36m--[0m Detecting C compile features - done
+[36m--[0m Check for working CXX compiler: /usr/bin/c++
+[36m--[0m Check for working CXX compiler: /usr/bin/c++ -- works
+[36m--[0m Detecting CXX compiler ABI info
+[36m--[0m Detecting CXX compiler ABI info - done
+[36m--[0m Detecting CXX compile features
+[36m--[0m Detecting CXX compile features - done
+[36m--[0m Using CATKIN_DEVEL_PREFIX: /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/.private/catkin_tools_prebuild
+[36m--[0m Using CMAKE_PREFIX_PATH: /opt/ros/noetic
+[36m--[0m This workspace overlays: /opt/ros/noetic
+[36m--[0m Found PythonInterp: /home/qrq/miniconda3/bin/python3 (found suitable version "3.9.12", minimum required is "3")
+[36m--[0m Using PYTHON_EXECUTABLE: /home/qrq/miniconda3/bin/python3
+[36m--[0m Using Debian Python package layout
+[36m--[0m Could NOT find PY_em (missing: PY_EM)
+[31m[1mCMake Error[0m at /opt/ros/noetic/share/catkin/cmake/empy.cmake:30 (message):
+  Unable to find either executable 'empy' or Python module 'em'...  try
+  installing the package 'python3-empy'
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/noetic/share/catkin/cmake/all.cmake:164 (include)
+  /opt/ros/noetic/share/catkin/cmake/catkinConfig.cmake:20 (include)
+  CMakeLists.txt:4 (find_package)
+
+
+[36m--[0m Configuring incomplete, errors occurred!
+See also "/home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/build/catkin_tools_prebuild/CMakeFiles/CMakeOutput.log".

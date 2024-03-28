@@ -1,0 +1,8 @@
+prefix=/home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/.private/carla_ackermann_msgs
+
+Name: carla_ackermann_msgs
+Description: Description of carla_ackermann_msgs
+Version: 1.0.0
+Cflags: -I/home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/.private/carla_ackermann_msgs/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs carla_msgs

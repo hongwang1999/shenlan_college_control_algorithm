@@ -1,0 +1,6 @@
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/share/carla_waypoint_publisher/cmake/carla_waypoint_publisherConfig.cmake
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/share/carla_waypoint_publisher/cmake/carla_waypoint_publisherConfig-version.cmake
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/lib/python3/dist-packages/carla_waypoint_publisher/__init__.py
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/lib/carla_waypoint_publisher/carla_waypoint_publisher.py
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/lib/carla_waypoint_publisher/cmake.lock
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/lib/pkgconfig/carla_waypoint_publisher.pc

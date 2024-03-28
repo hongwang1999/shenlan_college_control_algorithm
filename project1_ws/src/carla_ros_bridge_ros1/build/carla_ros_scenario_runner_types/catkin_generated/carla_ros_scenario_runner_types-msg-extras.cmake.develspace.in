@@ -1,0 +1,2 @@
+set(carla_ros_scenario_runner_types_MESSAGE_FILES "/home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/src/carla_ros_scenario_runner_types/msg/CarlaScenario.msg;/home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/src/carla_ros_scenario_runner_types/msg/CarlaScenarioList.msg;/home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/src/carla_ros_scenario_runner_types/msg/CarlaScenarioRunnerStatus.msg")
+set(carla_ros_scenario_runner_types_SERVICE_FILES "/home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/src/carla_ros_scenario_runner_types/srv/ExecuteScenario.srv")

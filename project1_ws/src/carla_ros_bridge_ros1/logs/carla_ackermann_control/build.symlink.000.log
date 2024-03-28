@@ -1,0 +1,10 @@
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/include/carla_ackermann_control/EgoVehicleControlParameterConfig.h
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/share/carla_ackermann_control/docs/EgoVehicleControlParameterConfig-usage.dox
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/share/carla_ackermann_control/docs/EgoVehicleControlParameterConfig.wikidoc
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/share/carla_ackermann_control/docs/EgoVehicleControlParameterConfig.dox
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/share/carla_ackermann_control/cmake/carla_ackermann_controlConfig.cmake
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/share/carla_ackermann_control/cmake/carla_ackermann_controlConfig-version.cmake
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/lib/python3/dist-packages/carla_ackermann_control/__init__.py
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/lib/python3/dist-packages/carla_ackermann_control/cfg/__init__.py
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/lib/python3/dist-packages/carla_ackermann_control/cfg/EgoVehicleControlParameterConfig.py
+Symlinking /home/qrq/Documents/Shenlan_PnC/carla_ros_bridge_ros1/devel/lib/pkgconfig/carla_ackermann_control.pc
